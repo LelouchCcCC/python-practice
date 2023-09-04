@@ -2,7 +2,7 @@ import random
 
 total = 10000
 num = 20
-for i in range(1,21):
+for i in range(1, 21):
     fen = random.randint(0, 10)
     if fen < 5:
         print(f'员工{i}，绩效分{fen}，低于5，不发工资，下一位')
@@ -13,4 +13,3 @@ for i in range(1,21):
     else:
         print('工资发放完了，下个月再领取吧')
         break
-
