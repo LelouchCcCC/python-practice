@@ -303,6 +303,9 @@
  - - append是把对象全部加入到list的末尾，而extend是把括号中对象中的内容一个一个添加到原list后面
  - ![img.png](img.png)
 ---
+ - ## 2023/09/05 bit operation(位运算)：
+ - ![img_1.png](img_1.png)
+---
  - ### numpy
  - - ### arr.astype(int/float/...)
  - - 让ndarray内的元素的格式统一调整为括号内格式
